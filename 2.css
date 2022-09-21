@@ -1,0 +1,4 @@
+/* Напишите CSS Media Query для вывода на печать в портретном режиме */
+@media print and (orientation: portrait) {
+    
+}
